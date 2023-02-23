@@ -1,0 +1,18 @@
+﻿  Camera.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Helper.cpp
+  ImageLoader.cpp
+  main.cpp
+  Mesh.cpp
+  Renderer.cpp
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\Framework - Hierachial Stuff\ThreeGPStart\Renderer.cpp(120,46): warning C4267: 'initializing': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\Framework - Hierachial Stuff\ThreeGPStart\Renderer.cpp(418,17): warning C4305: '+=': truncation from 'double' to 'float'
+  Simulation.cpp
+  Generating Code...
+  glew.c
+  ThreeGPStart.vcxproj -> C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\Framework - Hierachial Stuff\x64\Debug\ThreeGPStart.exe

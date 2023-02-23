@@ -1,0 +1,85 @@
+﻿  Camera.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Helper.cpp
+  ImageLoader.cpp
+  main.cpp
+  Mesh.cpp
+  Renderer.cpp
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(129,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(130,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(135,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(161,35): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(162,31): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(163,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(165,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(166,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(167,35): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(173,35): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(174,31): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(175,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(177,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(178,31): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(179,52): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(264,46): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\ThreeGPStart\Renderer.cpp(383,46): warning C4267: 'initializing': conversion from 'size_t' to 'GLuint', possible loss of data
+  Simulation.cpp
+  Generating Code...
+  glew.c
+  ThreeGPStart.vcxproj -> C:\Users\Laptop\Desktop\DavidSoremekun- 3GP\Multiple Projects\FrameWork V.5 - Lighting(Failed) Terrain(Success)\x64\Debug\ThreeGPStart.exe
